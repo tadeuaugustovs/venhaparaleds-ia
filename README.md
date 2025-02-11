@@ -82,3 +82,12 @@ Você pode aumentar a sua pontuação no processo de seleção implementando um 
 | Total| 120 |
 
 Na sua nota final serâo acrescidos os pontos referentes aos itens implementados corretamente.
+
+## Penalizações
+
+Você será desclassifiado nas seguintes situações:
+
+1. Se submeter um solução que não funcione; 
+2. Se não cumprir os critérios presentes no seção **Avaliação**;
+3. Se cometer plágio.
+
