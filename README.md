@@ -58,7 +58,7 @@ O blog deve conter:
 - **Formatação do Blog:** O texto final deve estar **bem formatado** e ser adequado para publicação.
 - **Código e Organização:** O código deve estar **bem organizado, modular e documentado**.
 
-- | Critério  | Valor | 
+| Critério  | Valor | 
 |---|---|
 | Legibilidade do Código |  10  |
 | Documentação do código |  10  |
