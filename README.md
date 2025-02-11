@@ -57,3 +57,28 @@ O blog deve conter:
 - **Qualidade do Resumo:** Os resumos devem ser **precisos** e capturar os pontos principais dos documentos.
 - **Formatação do Blog:** O texto final deve estar **bem formatado** e ser adequado para publicação.
 - **Código e Organização:** O código deve estar **bem organizado, modular e documentado**.
+
+- | Critério  | Valor | 
+|---|---|
+| Legibilidade do Código |  10  |
+| Documentação do código |  10  |
+| Documentação da solução |  10  |
+| Tratamento de Erros | 10 | 
+| Total | 40 |
+
+## Diferenciais 
+
+Você pode aumentar a sua pontuação no processo de seleção implementando um ou mais dos itens abaixo:
+
+| Item  | Pontos Ganhos | 
+|---|---|
+| Criar um [serviço](https://martinfowler.com/articles/microservices.html) com o problema |  30  |
+| Implementar Clean Code |  20  |
+| Implementar o padrão de programação da tecnologia escolhida |  20  |
+| Qualidade de [Código com SonarQube](https://about.sonarcloud.io/) |  15  |
+| Implementar integração com [Github Action](https://github.com/features/actions)  |  10  |
+| Implementar integração com Github Action + SonarQube |  10  |
+| Implementar usando Docker | 5 |
+| Total| 120 |
+
+Na sua nota final serâo acrescidos os pontos referentes aos itens implementados corretamente.
