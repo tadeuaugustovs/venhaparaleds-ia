@@ -1,9 +1,14 @@
-# Desafio: Agentes Inteligentes para Leitura e Resumo de Documentos PDF
+# Desafio IA - LEDS | Agentes Inteligentes para Leitura e Resumo de Documentos PDF
+*Bem-vindo!* 👋
 
-## Objetivo Geral
+Neste desafio, você terá a oportunidade de demonstrar que possui as habilidades necessárias para atuar no time de IA do laboratório.
+
+# Objetivo Geral
+
 Desenvolver uma solução baseada em agentes utilizando o framework **CrewaI** para processar documentos em formato PDF. A solução deve gerar resumos dos documentos lidos e apresentar o conteúdo em um formato adequado para publicação em um blog.
 
-## Descrição do Desafio
+# Contextualização
+
 Você foi contratado para criar um sistema inteligente de leitura e resumo de documentos PDF. O objetivo é construir uma solução modular composta por diferentes agentes, cada um responsável por uma etapa do processo. O sistema final deve ser capaz de:
 
 - Ler documentos PDF de forma eficiente.
@@ -45,12 +50,14 @@ O blog deve conter:
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Criando um Blog Writer Multi-Agent System com CrewaI e Ollama](https://medium.com/the-ai-forum/create-a-blog-writer-multi-agent-system-using-crewai-and-ollama-f47654a5e1cd)
 
-## Entrega
+# O que deve ser entregue?
 - **Código fonte** do projeto.
 - **Documentação breve** explicando a arquitetura do sistema e o papel de cada agente.
 - **Exemplo de texto de blog** gerado a partir de pelo menos **3 documentos PDF**.
-- Para enviar o resultado, basta realizar um Fork deste repositório e abrir um Pull Request com seu nome.
-  
+
+## Como entregar?
+1. Faça um **fork** do repositório. Nesse fork esperamos encontrar uma documentação completa da solução e a listagem dos diferenciais implementados.
+2. Abra um **pull request (PR)** do seu fork para o nome repositório com o seu nome como título. Assim conseguimos te localizar melhor e ver que você já finalizou o desafio!
 
 ## Critérios de Avaliação
 - **Funcionalidade:** O sistema deve realizar todas as etapas descritas (**leitura, resumo e criação do blog**).
@@ -67,8 +74,7 @@ O blog deve conter:
 | Total | 40 |
 
 ## Diferenciais 
-
-Você pode aumentar a sua pontuação no processo de seleção implementando um ou mais dos itens abaixo:
+Você pode **aumentar sua pontuação** implementando os seguintes diferenciais:
 
 | Item  | Pontos Ganhos | 
 |---|---|
@@ -81,13 +87,35 @@ Você pode aumentar a sua pontuação no processo de seleção implementando um 
 | Implementar usando Docker | 5 |
 | Total| 120 |
 
-Na sua nota final serâo acrescidos os pontos referentes aos itens implementados corretamente.
+A pontuação final será calculada somando os critérios obrigatórios e os diferenciais implementados corretamente.
 
-## Penalizações
+# Penalizações
 
-Você será desclassifiado nas seguintes situações:
+Você será desclassificado se:
 
-1. Se submeter um solução que não funcione; 
-2. Se não cumprir os critérios presentes no seção **Avaliação**;
-3. Se cometer plágio.
+1. Enviar uma solução que não funcione.
+2. Não cumprir os critérios da seção **Avaliação**.
+3. For identificado plágio.
+   
+***Que a força esteja com você. Boa sorte!***
 
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/school/ledsifes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ledsifes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ledsifes/?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
