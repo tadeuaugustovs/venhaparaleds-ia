@@ -1,0 +1,39 @@
+ler_pdf:
+    description: >
+      Utilizar técnicas avançadas de extração de texto, incluindo OCR e pré-processamento de documentos,
+      para obter o conteúdo bruto de arquivos PDF com o máximo de precisão. Deve-se garantir a recuperação
+      de textos digitalizados e formatados, evitando a perda de informações estruturais importantes.
+    expected_output: >
+      Um texto extraído com alta fidelidade ao documento original, pronto para análise posterior.
+      A saída deve preservar seções, parágrafos e qualquer estrutura textual relevante.
+    agent: leitor_pdf
+
+analisar_texto:
+    description: >
+      Aplicar técnicas avançadas de análise textual, como remoção de ruídos, normalização e estruturação,
+      para refinar o texto extraído. Deve-se identificar padrões, eliminar dados redundantes e 
+      destacar informações-chave que serão essenciais para o resumo.
+    expected_output: >
+      Texto organizado e limpo, sem ruídos desnecessários, com uma estrutura clara e destacando os principais pontos abordados no documento original.
+    agent: analista_textual
+
+resumir_texto:
+    description: >
+      Criar um resumo conciso e bem estruturado do texto analisado. O resumo deve capturar
+      as principais ideias do documento original, mantendo clareza, coesão e fluidez, sem comprometer o significado.
+      O texto deve ser formatado de forma a permitir rápida compreensão do leitor.
+    expected_output: >
+      Um resumo bem formulado, destacando os pontos mais importantes do documento de maneira organizada,
+      com frases diretas e coesas.
+    agent: resumidor
+
+escrever_post:
+    description: >
+      Transformar o resumo gerado em um post de blog profissional e bem estruturado. 
+      O post deve conter título chamativo, introdução envolvente, subtítulos estratégicos 
+      e uma conclusão clara e impactante. Além disso, deve-se otimizar o conteúdo para SEO, 
+      aplicando palavras-chave relevantes e garantindo uma leitura fluida e atraente para o público.
+    expected_output: >
+      Um post finalizado e pronto para publicação, com estrutura otimizada para engajamento, SEO 
+      e experiência de leitura aprimorada.
+    agent: formatador_blog
