@@ -1,4 +1,4 @@
----
+
 
 Título: "História do Brasil: Eurocentrismo Vs Historiografia Nativa – Um Debate Sobre Nossas Origens"
 
@@ -26,6 +26,5 @@ Conclusão:
 
 "Em última análise, este debate nos faz refletir sobre como as diferentes perspectivas moldam o discurso histórico brasileiro e inegavelmente influenciam nossas percepções de história. É necessário que continuemos a questionar, aprender e evoluir nossas perspectivas sobre as origens do Brasil."
 
----
 
 Este post foi otimizado para SEO com a aplicação estratégica de palavras-chave relevantes.
