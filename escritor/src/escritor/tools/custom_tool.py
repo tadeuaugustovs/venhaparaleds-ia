@@ -45,7 +45,7 @@ class ExtratorPDF(BaseTool):
 
                     # Se ultrapassar o limite, reduz tamanho dos trechos e a quantidade extraída
                     while total_tokens > limite_tokens:
-                        print("⚠️ Excesso de tokens! Reduzindo tamanho dos trechos e quantidade extraída...")
+                        print(" Excesso de tokens! Reduzindo tamanho dos trechos e quantidade extraída...")
                         tamanho_trecho = max(50, tamanho_trecho // 2)  # Reduz tamanho do trecho, mínimo de 50 caracteres
                         max_trechos = max(5, max_trechos // 2)  # Reduz a quantidade de trechos, mínimo de 5
                         trechos = [texto[i:i+tamanho_trecho] for i in range(0, len(texto), tamanho_trecho)][:max_trechos]
